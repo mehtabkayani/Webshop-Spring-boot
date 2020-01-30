@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head th:replace="/fragments/head"></head>
+<body>
+
+<nav th:replace="/fragments/nav :: nav-front"></nav>
+
+<div class="container-fluid mt-5">
+    <div class="row">
+
+        <div class="col"></div>
+        <div class="col-7 text-center">
+            <h2 class="display-4">Thank you!</h2>
+            <p>Your order has been completed and will be shipped in a few days!</p>
+
+
+            <a href="/category" class="btn btn-danger checkout">Back to home page</a>
+
+        </div>
+        <div class="col"></div>
+    </div>
+
+</div>
+
+<div th:replace="/fragments/footer"></div>
+</body>
+</html>
