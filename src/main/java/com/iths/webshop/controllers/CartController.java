@@ -5,7 +5,7 @@ import com.iths.webshop.service.OrderdetailsRepository;
 import com.iths.webshop.service.OrdersRepository;
 import com.iths.webshop.service.ProductRepository;
 import com.iths.webshop.service.UserRepository;
-import com.iths.webshop.tests.*;
+import com.iths.webshop.entity.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

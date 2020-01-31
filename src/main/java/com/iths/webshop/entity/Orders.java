@@ -1,4 +1,4 @@
-package com.iths.webshop.tests;
+package com.iths.webshop.entity;
 
 import lombok.Data;
 

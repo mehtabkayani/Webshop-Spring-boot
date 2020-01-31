@@ -1,6 +1,6 @@
 package com.iths.webshop.Utility;
 
-import com.iths.webshop.tests.Product;
+import com.iths.webshop.entity.Product;
 import lombok.Data;
 import java.util.HashMap;
 import java.util.Optional;

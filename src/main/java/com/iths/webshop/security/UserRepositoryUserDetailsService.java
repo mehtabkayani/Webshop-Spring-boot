@@ -2,8 +2,8 @@ package com.iths.webshop.security;
 
 import com.iths.webshop.service.AdminRepository;
 import com.iths.webshop.service.UserRepository;
-import com.iths.webshop.tests.Admin;
-import com.iths.webshop.tests.User;
+import com.iths.webshop.entity.Admin;
+import com.iths.webshop.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

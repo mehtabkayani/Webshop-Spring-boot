@@ -1,7 +1,7 @@
 package com.iths.webshop.security;
 
 import com.iths.webshop.service.UserRepository;
-import com.iths.webshop.tests.User;
+import com.iths.webshop.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Controller;

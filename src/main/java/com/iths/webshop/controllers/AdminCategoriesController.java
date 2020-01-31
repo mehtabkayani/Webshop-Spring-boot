@@ -1,7 +1,7 @@
 package com.iths.webshop.controllers;
 
 import com.iths.webshop.service.CategoryRepository;
-import com.iths.webshop.tests.Category;
+import com.iths.webshop.entity.Category;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

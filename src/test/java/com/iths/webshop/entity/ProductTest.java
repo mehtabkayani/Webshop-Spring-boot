@@ -1,4 +1,4 @@
-package com.iths.webshop.tests;
+package com.iths.webshop.entity;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;

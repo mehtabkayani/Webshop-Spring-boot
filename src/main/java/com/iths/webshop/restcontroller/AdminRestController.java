@@ -1,9 +1,9 @@
 package com.iths.webshop.restcontroller;
 
 import com.iths.webshop.service.*;
-import com.iths.webshop.tests.Orderdetail;
-import com.iths.webshop.tests.Orders;
-import com.iths.webshop.tests.Product;
+import com.iths.webshop.entity.Orderdetail;
+import com.iths.webshop.entity.Orders;
+import com.iths.webshop.entity.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

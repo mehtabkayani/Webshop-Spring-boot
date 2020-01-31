@@ -1,6 +1,6 @@
 package com.iths.webshop.service;
 
-import com.iths.webshop.tests.User;
+import com.iths.webshop.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

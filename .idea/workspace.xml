@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d9760f7-f1dd-47c1-a456-a401444cf0c7" name="Default Changelist" comment="" />
+    <list default="true" id="4d9760f7-f1dd-47c1-a456-a401444cf0c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/Common.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/Utility/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/Utility/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/controllers/AdminCategoriesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/controllers/AdminCategoriesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/controllers/AdminOrdersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/controllers/AdminOrdersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/controllers/AdminPagesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/controllers/AdminPagesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/controllers/AdminProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/controllers/AdminProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/controllers/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/controllers/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/controllers/CategoriesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/controllers/CategoriesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/controllers/PagesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/controllers/PagesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/restcontroller/AdminRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/restcontroller/AdminRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/security/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/security/RegistrationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/security/UserRepositoryUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/security/UserRepositoryUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/service/AdminRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/service/AdminRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/service/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/service/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/service/OrderdetailsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/service/OrderdetailsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/service/OrdersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/service/OrdersRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/service/PageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/service/PageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/service/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/service/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/service/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/service/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/tests/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/entity/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/tests/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/entity/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/tests/Orderdetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/entity/Orderdetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/tests/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/entity/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/tests/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/entity/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/tests/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/entity/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iths/webshop/tests/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iths/webshop/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/iths/webshop/tests/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/iths/webshop/entity/CartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/iths/webshop/tests/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/iths/webshop/entity/ProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/Common.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/Common.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/Utility/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/Utility/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/controllers/AdminCategoriesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/controllers/AdminCategoriesController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/controllers/AdminOrdersController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/controllers/AdminOrdersController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/controllers/AdminPagesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/controllers/AdminPagesController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/controllers/AdminProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/controllers/AdminProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/controllers/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/controllers/CartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/controllers/CategoriesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/controllers/CategoriesController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/controllers/PagesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/controllers/PagesController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/restcontroller/AdminRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/restcontroller/AdminRestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/security/RegistrationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/security/RegistrationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/security/UserRepositoryUserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/security/UserRepositoryUserDetailsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/service/AdminRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/service/AdminRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/service/CategoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/service/CategoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/service/OrderdetailsRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/service/OrderdetailsRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/service/OrdersRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/service/OrdersRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/service/PageRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/service/PageRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/service/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/service/ProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/service/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iths/webshop/service/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/tests/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/tests/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/tests/Orderdetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/tests/Orders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/tests/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/tests/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iths/webshop/tests/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/iths/webshop/tests/CartTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/iths/webshop/tests/ProductTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,8 +162,8 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.iths.webshop.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.iths.webshop.tests.CartTest" />
+      <option name="PACKAGE_NAME" value="com.iths.webshop.entity" />
+      <option name="MAIN_CLASS_NAME" value="com.iths.webshop.entity.CartTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,8 +177,8 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.iths.webshop.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.iths.webshop.tests.CartTest" />
+      <option name="PACKAGE_NAME" value="com.iths.webshop.entity" />
+      <option name="MAIN_CLASS_NAME" value="com.iths.webshop.entity.CartTest" />
       <option name="METHOD_NAME" value="addProductWithNegativeQty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -135,8 +193,8 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.iths.webshop.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.iths.webshop.tests.CartTest" />
+      <option name="PACKAGE_NAME" value="com.iths.webshop.entity" />
+      <option name="MAIN_CLASS_NAME" value="com.iths.webshop.entity.CartTest" />
       <option name="METHOD_NAME" value="totalPriceForCart" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -151,8 +209,8 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.iths.webshop.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.iths.webshop.tests.ProductTest" />
+      <option name="PACKAGE_NAME" value="com.iths.webshop.entity" />
+      <option name="MAIN_CLASS_NAME" value="com.iths.webshop.entity.ProductTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -162,12 +220,12 @@
       <module name="webshop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.iths.webshop.tests.*" />
+          <option name="PATTERN" value="com.iths.webshop.entity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.iths.webshop.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.iths.webshop.tests.ProductTest" />
+      <option name="PACKAGE_NAME" value="com.iths.webshop.entity" />
+      <option name="MAIN_CLASS_NAME" value="com.iths.webshop.entity.ProductTest" />
       <option name="METHOD_NAME" value="setPriceToNegative" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -239,7 +297,8 @@
       <workItem from="1580283924257" duration="10246000" />
       <workItem from="1580317499725" duration="12831000" />
       <workItem from="1580394644931" duration="1410000" />
-      <workItem from="1580403240885" duration="1686000" />
+      <workItem from="1580403240885" duration="1890000" />
+      <workItem from="1580458370928" duration="260000" />
     </task>
     <servers />
   </component>
@@ -280,89 +339,89 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580241464164" />
-    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1580404933874">
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1580405141616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580399366958" />
     <state width="1877" height="247" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1580314612150" />
-    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580404933874" />
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580405141616" />
     <state width="1877" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580197419583" />
-    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1580404933874">
+    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1580405141616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580399366957" />
     <state width="1877" height="247" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1580314612149" />
-    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580404933874" />
+    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580405141616" />
     <state width="1877" height="260" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580197419583" />
-    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1580404933874">
+    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1580405141616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580399366957" />
     <state width="1877" height="247" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1580314612149" />
-    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580404933874" />
+    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580405141616" />
     <state width="1877" height="260" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580197419583" />
-    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1580404933874">
+    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1580405141616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580399366958" />
     <state width="1877" height="247" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1580314612150" />
-    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580404933874" />
+    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580405141616" />
     <state width="1877" height="260" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580197419583" />
-    <state width="1323" height="163" key="GridCell.Tab.1.bottom" timestamp="1580404933890">
+    <state width="1323" height="163" key="GridCell.Tab.1.bottom" timestamp="1580405141616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="260" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580218647172" />
     <state width="1877" height="259" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1580314612135" />
-    <state width="1323" height="163" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580404933890" />
+    <state width="1323" height="163" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580405141616" />
     <state width="1877" height="271" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580141428564" />
-    <state width="1323" height="163" key="GridCell.Tab.1.center" timestamp="1580404933890">
+    <state width="1323" height="163" key="GridCell.Tab.1.center" timestamp="1580405141616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="260" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580218647172" />
     <state width="1877" height="259" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1580314612134" />
-    <state width="1323" height="163" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580404933890" />
+    <state width="1323" height="163" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580405141616" />
     <state width="1877" height="271" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580141428564" />
-    <state width="1323" height="163" key="GridCell.Tab.1.left" timestamp="1580404933890">
+    <state width="1323" height="163" key="GridCell.Tab.1.left" timestamp="1580405141616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="260" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580218647172" />
     <state width="1877" height="259" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1580314612134" />
-    <state width="1323" height="163" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580404933890" />
+    <state width="1323" height="163" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580405141616" />
     <state width="1877" height="271" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580141428564" />
-    <state width="1323" height="163" key="GridCell.Tab.1.right" timestamp="1580404933890">
+    <state width="1323" height="163" key="GridCell.Tab.1.right" timestamp="1580405141616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="260" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580218647172" />
     <state width="1877" height="259" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1580314612134" />
-    <state width="1323" height="163" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580404933890" />
+    <state width="1323" height="163" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580405141616" />
     <state width="1877" height="271" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580141428564" />
-    <state width="1323" height="163" key="GridCell.Tab.2.bottom" timestamp="1580404933890">
+    <state width="1323" height="163" key="GridCell.Tab.2.bottom" timestamp="1580405141616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="260" key="GridCell.Tab.2.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580218647172" />
     <state width="1877" height="259" key="GridCell.Tab.2.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1580314612135" />
-    <state width="1323" height="163" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580404933890" />
+    <state width="1323" height="163" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580405141616" />
     <state width="1877" height="262" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580141428564" />
-    <state width="1323" height="163" key="GridCell.Tab.2.center" timestamp="1580404933890">
+    <state width="1323" height="163" key="GridCell.Tab.2.center" timestamp="1580405141616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="260" key="GridCell.Tab.2.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580218647172" />
     <state width="1877" height="259" key="GridCell.Tab.2.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1580314612135" />
-    <state width="1323" height="163" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1580404933890" />
+    <state width="1323" height="163" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1580405141616" />
     <state width="1877" height="262" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580141428564" />
-    <state width="1323" height="163" key="GridCell.Tab.2.left" timestamp="1580404933890">
+    <state width="1323" height="163" key="GridCell.Tab.2.left" timestamp="1580405141616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="260" key="GridCell.Tab.2.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580218647172" />
     <state width="1877" height="259" key="GridCell.Tab.2.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1580314612135" />
-    <state width="1323" height="163" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1580404933890" />
+    <state width="1323" height="163" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1580405141616" />
     <state width="1877" height="262" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580141428564" />
-    <state width="1323" height="163" key="GridCell.Tab.2.right" timestamp="1580404933890">
+    <state width="1323" height="163" key="GridCell.Tab.2.right" timestamp="1580405141616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1877" height="260" key="GridCell.Tab.2.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580218647172" />
     <state width="1877" height="259" key="GridCell.Tab.2.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1580314612135" />
-    <state width="1323" height="163" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1580404933890" />
+    <state width="1323" height="163" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1580405141616" />
     <state width="1877" height="262" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580141428564" />
     <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1580236166742">
       <screen x="0" y="0" width="1366" height="728" />
@@ -372,10 +431,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576247607072" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580403307686">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580458409351">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580394737359" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580458409351" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580403307686" />
     <state x="517" y="167" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580321806276">
       <screen x="0" y="0" width="1366" height="728" />

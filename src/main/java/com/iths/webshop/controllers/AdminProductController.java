@@ -2,8 +2,8 @@ package com.iths.webshop.controllers;
 
 import com.iths.webshop.service.CategoryRepository;
 import com.iths.webshop.service.ProductRepository;
-import com.iths.webshop.tests.Category;
-import com.iths.webshop.tests.Product;
+import com.iths.webshop.entity.Category;
+import com.iths.webshop.entity.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
